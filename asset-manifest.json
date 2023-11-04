@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ShareYourPlaces/static/css/main.470c4bcc.chunk.css",
+    "main.js": "/ShareYourPlaces/static/js/main.0da9de6a.chunk.js",
+    "main.js.map": "/ShareYourPlaces/static/js/main.0da9de6a.chunk.js.map",
+    "runtime-main.js": "/ShareYourPlaces/static/js/runtime-main.6946281b.js",
+    "runtime-main.js.map": "/ShareYourPlaces/static/js/runtime-main.6946281b.js.map",
+    "static/js/2.8233f68d.chunk.js": "/ShareYourPlaces/static/js/2.8233f68d.chunk.js",
+    "static/js/2.8233f68d.chunk.js.map": "/ShareYourPlaces/static/js/2.8233f68d.chunk.js.map",
+    "static/css/3.2f2a4f6e.chunk.css": "/ShareYourPlaces/static/css/3.2f2a4f6e.chunk.css",
+    "static/js/3.7bd3a568.chunk.js": "/ShareYourPlaces/static/js/3.7bd3a568.chunk.js",
+    "static/js/3.7bd3a568.chunk.js.map": "/ShareYourPlaces/static/js/3.7bd3a568.chunk.js.map",
+    "static/css/4.4f4e961f.chunk.css": "/ShareYourPlaces/static/css/4.4f4e961f.chunk.css",
+    "static/js/4.c7d721e8.chunk.js": "/ShareYourPlaces/static/js/4.c7d721e8.chunk.js",
+    "static/js/4.c7d721e8.chunk.js.map": "/ShareYourPlaces/static/js/4.c7d721e8.chunk.js.map",
+    "static/css/5.fa1d59f1.chunk.css": "/ShareYourPlaces/static/css/5.fa1d59f1.chunk.css",
+    "static/js/5.e507a2b0.chunk.js": "/ShareYourPlaces/static/js/5.e507a2b0.chunk.js",
+    "static/js/5.e507a2b0.chunk.js.map": "/ShareYourPlaces/static/js/5.e507a2b0.chunk.js.map",
+    "static/css/6.6e96a4bb.chunk.css": "/ShareYourPlaces/static/css/6.6e96a4bb.chunk.css",
+    "static/js/6.6575bae4.chunk.js": "/ShareYourPlaces/static/js/6.6575bae4.chunk.js",
+    "static/js/6.6575bae4.chunk.js.map": "/ShareYourPlaces/static/js/6.6575bae4.chunk.js.map",
+    "static/css/7.0fea1144.chunk.css": "/ShareYourPlaces/static/css/7.0fea1144.chunk.css",
+    "static/js/7.73158d31.chunk.js": "/ShareYourPlaces/static/js/7.73158d31.chunk.js",
+    "static/js/7.73158d31.chunk.js.map": "/ShareYourPlaces/static/js/7.73158d31.chunk.js.map",
+    "index.html": "/ShareYourPlaces/index.html",
+    "precache-manifest.3c63d59d07edf4786e9957685842f3e4.js": "/ShareYourPlaces/precache-manifest.3c63d59d07edf4786e9957685842f3e4.js",
+    "service-worker.js": "/ShareYourPlaces/service-worker.js",
+    "static/css/3.2f2a4f6e.chunk.css.map": "/ShareYourPlaces/static/css/3.2f2a4f6e.chunk.css.map",
+    "static/css/4.4f4e961f.chunk.css.map": "/ShareYourPlaces/static/css/4.4f4e961f.chunk.css.map",
+    "static/css/5.fa1d59f1.chunk.css.map": "/ShareYourPlaces/static/css/5.fa1d59f1.chunk.css.map",
+    "static/css/6.6e96a4bb.chunk.css.map": "/ShareYourPlaces/static/css/6.6e96a4bb.chunk.css.map",
+    "static/css/7.0fea1144.chunk.css.map": "/ShareYourPlaces/static/css/7.0fea1144.chunk.css.map",
+    "static/css/main.470c4bcc.chunk.css.map": "/ShareYourPlaces/static/css/main.470c4bcc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6946281b.js",
+    "static/js/2.8233f68d.chunk.js",
+    "static/css/main.470c4bcc.chunk.css",
+    "static/js/main.0da9de6a.chunk.js"
+  ]
+}
