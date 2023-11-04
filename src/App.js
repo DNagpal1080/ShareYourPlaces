@@ -25,7 +25,7 @@ const App = () => {
   if (token) {
     routes = (
       <Switch>
-        <Route path="/ShareYourPlaces/build" exact>
+        <Route path="/ShareYourPlaces" exact>
           <Users />
         </Route>
         <Route path="/:userId/places" exact>
@@ -43,7 +43,7 @@ const App = () => {
   } else {
     routes = (
       <Switch>
-        <Route path="/ShareYourPlaces/build" exact>
+        <Route path="/ShareYourPlaces" exact>
           <Users />
         </Route>
         <Route path="/:userId/Places" exact>
@@ -68,7 +68,7 @@ const App = () => {
       }}
     >
       <React.Fragment>
-        <Router basename="/ShareYourPlaces/build">
+        <Router basename="/ShareYourPlaces">
           <MainNavigation />
           <main>
             <Suspense
